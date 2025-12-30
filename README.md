@@ -6,7 +6,6 @@ Users authenticate via secure HTTP-only cookies, and active sessions are stored 
 
 
 Features
-
 --> Login with email + password
 --> Secure session cookies (HttpOnly, Secure, SameSite)
 --> Database-stored sessions with expiry
